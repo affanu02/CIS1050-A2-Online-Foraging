@@ -1,6 +1,10 @@
 # Online Foraging #
 
-The pandemic has meant that a lot of people are buying food products online. This website focuses as a portal for people wanting to buy food products from small retailers in the GTA. Retailers such as bakers, butchers, flour mills, gourmet food shops, virtual farmers markets etc. The website will include a link to the various food purveyors, a brief description, what they charge for delivery, and any other relevant information.
+The pandemic has meant that a lot of people are buying food products online. This website focuses as a portal for people wanting to buy food products from small retailers in the GTA. Retailers such as bakers, butchers, flour mills, gourmet food shops, virtual farmers markets etc. The website will include a link to the various food purveyors, a brief description, what they charge for delivery, and any other relevant information
+
+# How to Run #
+
+Download folder onto local computer, open up OnlineForaging.html in File Explorer, choose specific browser to open onto
 
 ## Website Technical Requirments ##
     - one page length
